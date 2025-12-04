@@ -9,5 +9,5 @@ int main() {
     scanf("%f",&n);
     int x=n;
     printf("Rounded Value = %d",x);
-    return 0;
+    
 }
